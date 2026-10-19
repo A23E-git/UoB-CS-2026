@@ -15,7 +15,7 @@ print("--------------------------------------------------------")
 
 num =6
 print(num)
-print(str(num)+ " is my num")
+print(str(num)+" is my num")
 # print(num + "is my num") # will not work 
 print(num, "is my num") 
 print(type(num))
