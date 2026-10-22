@@ -13,6 +13,8 @@ fruits.append("Grapes")
 
 print(fruits)
 
+print(len(fruits))  # 5
+
 
 # A tuple is similar to a list, but it is immutable. Once created, its elements cannot be changed, added or removed.
 # Key features: Ordered, unchangeable, allows duplicates, and supports indexing.
